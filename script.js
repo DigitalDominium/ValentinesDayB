@@ -157,7 +157,7 @@ function playSadSong() {
         </style>
       </head>
       <body>
-        <h1>Dear Baby SOnia,</h1>
+        <h1>Dear Baby Sonia,</h1>
         <p>I am so excited to meet you for our Valentines day date!</p>
         <p>Let's have an amazing time together at:</p>
         <p><strong>Secret Place</strong></p>
